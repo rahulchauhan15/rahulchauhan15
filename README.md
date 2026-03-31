@@ -6,7 +6,7 @@
 <!-- PROFILE BADGES -->
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rahul-code-is-here&color=F74C00&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=rahulchauhan15&color=F74C00&style=flat-square&label=PROFILE+VIEWS)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/-Rahul_Chauhan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-chauhan-508968252/)
 &nbsp;
@@ -42,22 +42,22 @@ impl RahulChauhan {
 <div align="center">
 
 <!-- Donut chart - real repo language breakdown -->
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-code-is-here&layout=donut&hide_border=true&bg_color=0d1117&title_color=F74C00&text_color=c9d1d9&langs_count=10&count_private=true" alt="Top Languages - Donut" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchauhan15&layout=donut&hide_border=true&bg_color=0d1117&title_color=F74C00&text_color=c9d1d9&langs_count=10&count_private=true" alt="Top Languages - Donut" />
 &nbsp;&nbsp;&nbsp;
 <!-- Compact bar chart - real repo language breakdown -->
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-code-is-here&layout=compact&hide_border=true&bg_color=0d1117&title_color=F74C00&text_color=c9d1d9&langs_count=10&count_private=true" alt="Top Languages - Compact" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchauhan15&layout=compact&hide_border=true&bg_color=0d1117&title_color=F74C00&text_color=c9d1d9&langs_count=10&count_private=true" alt="Top Languages - Compact" />
 
 <br/><br/>
 
 <!-- Profile Summary Cards - language by repo & by commit -->
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rahul-code-is-here&theme=github_dark" alt="Repos Per Language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulchauhan15&theme=github_dark" alt="Repos Per Language" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rahul-code-is-here&theme=github_dark" alt="Most Commit Language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulchauhan15&theme=github_dark" alt="Most Commit Language" />
 
 <br/><br/>
 
 <!-- Profile Details Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahul-code-is-here&theme=github_dark" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulchauhan15&theme=github_dark" alt="Profile Details" />
 
 </div>
 
@@ -242,15 +242,15 @@ pub enum ApiError {
 
 ### GitHub Stats
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rahul-code-is-here&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F74C00&icon_color=F74C00&text_color=c9d1d9&ring_color=F74C00&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rahulchauhan15&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F74C00&icon_color=F74C00&text_color=c9d1d9&ring_color=F74C00&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-code-is-here&hide_border=true&background=0d1117&stroke=30363d&ring=F74C00&fire=F74C00&currStreakLabel=F74C00&sideLabels=c9d1d9&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulchauhan15&hide_border=true&background=0d1117&stroke=30363d&ring=F74C00&fire=F74C00&currStreakLabel=F74C00&sideLabels=c9d1d9&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-code-is-here&bg_color=0d1117&color=c9d1d9&line=F74C00&point=F74C00&area=true&area_color=F74C00&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulchauhan15&bg_color=0d1117&color=c9d1d9&line=F74C00&point=F74C00&area=true&area_color=F74C00&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -259,9 +259,9 @@ pub enum ApiError {
 <!-- SNAKE ANIMATION -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahul-code-is-here/Rahul-code-is-here/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahul-code-is-here/Rahul-code-is-here/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Rahul-code-is-here/Rahul-code-is-here/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulchauhan15/rahulchauhan15/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulchauhan15/rahulchauhan15/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rahulchauhan15/rahulchauhan15/output/github-snake-dark.svg" />
 </picture>
 </div>
 
