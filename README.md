@@ -233,7 +233,6 @@ pub enum ApiError {
 - **Async Rust Deep Dive** -- Pinning, `Future` trait internals, executor design
 - **Advanced Lifetimes** -- Elision rules, borrow checker internals, self-referential structs
 - **Systems Design** -- Distributed systems, consensus protocols, high-throughput pipelines
-- **Open Source** -- Contributing to Rust ecosystem crates
 
 ---
 
